@@ -1,0 +1,58 @@
+Initialize engine version: 5.3.5f1 (960ebf59018a)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 520 (ID=0x1916)
+    Vendor:   Intel
+    VRAM:     1124 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\SabreX7\Documents\UnityProjects\Lost Star\Rover_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\SabreX7\Documents\UnityProjects\Lost Star\Rover_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\SabreX7\Documents\UnityProjects\Lost Star\Rover_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\SabreX7\Documents\UnityProjects\Lost Star\Rover_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\SabreX7\Documents\UnityProjects\Lost Star\Rover_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\SabreX7\Documents\UnityProjects\Lost Star\Rover_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\SabreX7\Documents\UnityProjects\Lost Star\Rover_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\SabreX7\Documents\UnityProjects\Lost Star\Rover_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\SabreX7\Documents\UnityProjects\Lost Star\Rover_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\SabreX7\Documents\UnityProjects\Lost Star\Rover_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\SabreX7\Documents\UnityProjects\Lost Star\Rover_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\SabreX7\Documents\UnityProjects\Lost Star\Rover_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.363 seconds
+Platform assembly: C:\Users\SabreX7\Documents\UnityProjects\Lost Star\Rover_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\SabreX7\Documents\UnityProjects\Lost Star\Rover_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.796587 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: f48 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.297073 ms
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 3504.
+Total: 0.763734 ms (FindLiveObjects: 0.159146 ms CreateObjectMapping: 0.087040 ms MarkObjects: 0.464213 ms  DeleteObjects: 0.052480 ms)
+
+CheckResources () for Camera (UnityStandardAssets.ImageEffects.PostEffectsBase) should be overwritten.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+CheckResources () for Camera (1) (UnityStandardAssets.ImageEffects.PostEffectsBase) should be overwritten.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 7.013128 ms
+
+Unloading 41 unused Assets to reduce memory usage. Loaded Objects now: 2674.
+Total: 1.744215 ms (FindLiveObjects: 0.392960 ms CreateObjectMapping: 0.162560 ms MarkObjects: 0.944641 ms  DeleteObjects: 0.242773 ms)
+
+CheckResources () for Camera (UnityStandardAssets.ImageEffects.PostEffectsBase) should be overwritten.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+CheckResources () for Camera (1) (UnityStandardAssets.ImageEffects.PostEffectsBase) should be overwritten.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
